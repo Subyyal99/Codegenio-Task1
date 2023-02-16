@@ -1,0 +1,28 @@
+.whole{
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+.mainbox {
+    padding:80px;
+    border: 2px solid gray;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+    height: 30px;
+    width: 50px;
+    vertical-align: top;
+   
+
+}
+
+.smallbox {
+    padding: 20px;
+    border: 2px solid gray;
+    background-color: lightblue;
+    position: absolute;
+    font-size: 14px;
+    height: 5px;
+    width: 5px;    
+}

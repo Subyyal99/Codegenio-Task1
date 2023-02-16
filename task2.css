@@ -1,0 +1,74 @@
+body {
+  margin: 50px auto;
+}
+.div1 {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+  margin: 30px;
+  margin-left: 7%;
+  height: 300px;
+  vertical-align: top;
+  border: 1px dotted black;
+}
+
+.box {
+  background-color: aqua;
+  padding: 40px;
+  margin: 5px;
+  width: 60%;
+  display: inline-block;
+  border-radius: 5px;
+  height: 30px;
+  position: relative;
+}
+
+.circle {
+  border-radius: 100px;
+  border: 2px solid gray;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  background-color: aliceblue;
+  position: absolute;
+  top: -8px;
+  left: -8px;
+}
+
+.box2 {
+  background-color: rgb(184, 60, 81);
+  padding: 10px;
+  display: inline-block;
+  border-radius: 5px;
+  width: 22%;
+  height: 5px;
+  margin-left: 5px;
+}
+.box21 {
+  background-color: rgb(184, 60, 81);
+  padding: 10px;
+  border-radius: 5px;
+  width: 30%;
+  height: 5px;
+  top: -112px;
+  left: 51%;
+  position: relative;
+  display: inline-block;
+}
+.lorem2 {
+  overflow: visible;
+  color: gray;
+  font-size: 22px;
+  margin-left: -37%;
+}
+span {
+  margin-left: 5px;
+  color: gray;
+  font-size: 22px;
+}
+.textdiv {
+  display: inline-block;
+  width: 100%;
+  margin-left: 5px;
+}

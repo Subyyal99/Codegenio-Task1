@@ -1,0 +1,38 @@
+.whole {
+  text-align: center;
+  margin: 10% auto;
+}
+
+div {
+  margin: -4px;
+  font-size: 26px;
+  color: rgb(255, 255, 255);
+  height: 50px;
+}
+
+p {
+  margin: 0;
+}
+
+.blue {
+  display: inline-block;
+  background-color: #00e1ff;
+  padding: 50px;
+  width: 70px;
+  height: 20px;
+}
+
+.pink {
+  display: inline-block;
+  background-color: #f73d5e;
+  padding: 50px;
+  width: 70px;
+  height: 20px;
+}
+.yellow {
+  display: inline-block;
+  background-color: #e7e75a;
+  padding: 50px;
+  width: 70px;
+  height: 20px;
+}

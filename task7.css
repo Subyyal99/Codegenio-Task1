@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(32, 30, 30);
+}
+.whole {
+    margin: 0 auto;
+    position: relative;
+    top: 0;
+    left: 8%;
+
+}
+
+.red {
+    display: inline-block;
+    width: 200px;
+    height: 315px;
+    background-color: red;
+    margin: 10px;
+    position: relative;
+}
+
+.blue {
+    position: absolute;
+    display: inline-block;
+    height: 200px;
+    width: 350px;
+    background-color: rgb(73, 117, 212);
+    margin: 10px;
+
+}
+.orange {
+    position: relative;
+    display: inline-block;
+    height: 200px;
+    width: 460px;
+    background-color: rgb(226, 142, 33);
+    margin: 10px;
+    bottom: 118px;
+    left: 370px;
+
+}
+
+.white{
+    display: inline-block;
+    width: 200px;
+    height: 315px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    position: relative;
+
+}
+
+.brown {
+    position: absolute;
+    display: inline-block;
+    height: 200px;
+    width: 223px;
+    background-color: rgb(214, 179, 23);
+    margin: 10px;
+    top: 225px;
+
+}
+.white2{
+    position: relative;
+    display: inline-block;
+    height: 200px;
+    width: 345px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    bottom: 230px;
+    left: 247px;
+
+}
+
+.red2{
+    position: relative;
+    display: inline-block;
+    height: 200px;
+    width: 350px;
+    background-color: rgb(228, 19, 19);
+    margin: 10px;
+    bottom: 225px;
+    left: 16.6%;
+}
+
+.blue2 {
+    position: relative;
+    display: inline-block;
+    height: 200px;
+    width: 223px;
+    background-color: rgb(37, 151, 245);
+    margin: 10px;
+    bottom: 225px;
+    left: 16.6%;
+
+}
+
+.red3 {
+    /* display: inline-block; */
+    width: 216px;
+    height: 429px;
+    background-color: red;
+    margin: 10px;
+    position: absolute;
+    top: 223px;
+    left: 63%;
+
+}
